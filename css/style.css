@@ -1,0 +1,19 @@
+body, p, h1, ul, li, blockquote{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  font-family: "Volkorn", Georgia, 'Times New Roman', Times, serif;
+}
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+img{
+  max-width: 100px;
+}
